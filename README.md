@@ -7,8 +7,9 @@ I am open to remote opportunities in customer support, sales support, operations
 ## Selected work
 
 - [Interactive portfolio](https://daniel-techai.github.io/DLportfolio/) — a hierarchical mind-map portfolio built with Next.js, TypeScript, React Flow, and accessibility in mind.
+- [Klinepilot](https://klinepilot-live.daniel-laky.chatgpt.site/) — an installable market-research PWA with explainable scenarios, validation gates, and paper trading; it does not place production orders or promise returns.
+- [MindSwipe](https://daniel-techai.github.io/MindSwipe/) — an installable, offline-capable learning PWA built with React and Vite, with local progress and an Android debug-build path.
 - [Locriva](https://daniel-techai.github.io/Locriva/) — a dependency-free static portfolio for a small-business web studio, including reusable client materials and fictional demonstrations.
-- [MindSwipe](https://github.com/daniel-techAI/MindSwipe) — a React/Vite learning PWA with local progress and Capacitor Android builds.
 - [R/CREATION Shopify theme](https://github.com/daniel-techAI/BetterBrand) — a custom Shopify Online Store 2.0 theme for an editorial streetwear concept.
 
 ## Current focus
